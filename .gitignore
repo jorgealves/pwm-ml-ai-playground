@@ -1,0 +1,7 @@
+venv
+data
+yolov5
+yolov5*
+
+.DS_Store
+.ipynb_checkpoints

@@ -1,1 +1,8 @@
-jupyter
+notebook
+
+# support for raspberry pi camera
+opencv-contrib-python
+opencv-python
+
+
+
